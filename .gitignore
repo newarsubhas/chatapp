@@ -1,0 +1,7 @@
+ejabberd
+*.pyc
+*/venv/*
+venv
+.DS_Store
+.idea/
+
